@@ -2,8 +2,8 @@
 using System.Collections;
 
 public class dokan : MonoBehaviour {
-    public float speed = 1.0f;
-    public int ran = 114514;
+    float speed = 0.1f;
+    int ran = 114514;
     System.Random r = new System.Random(1);
     // Use this for initialization
     void Start () {

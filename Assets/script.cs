@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class script : MonoBehaviour {
-    public float speed = 3.0f;
+    float speed = 5.0f;
     bool isJump = false;
 
     // Use this for initialization
